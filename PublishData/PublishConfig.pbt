@@ -1,0 +1,16 @@
+﻿GameId: "2b32e642052449f9987017fb5147add8"
+ClientVersion: "1.0.158-prod-s"
+Name: "Invert"
+Description: "After a great catastrophy that inverted gravity for many of the population, humanity fled underground. Tensions rose and the scarcity of resources, combined with the fear and distrust between the inverted and non-inverted, resulted in bloodshed.\r\n\r\n(Based on the movie \"Patema Inverted\". I wasn\'t able to get one team to fall upwards and stand upside down due to my limited knowledge of Lua and the player controller. Both teams stand right-side up and have increased jump height and double jump to navigate the space. Grappling hooks were also planned, but I wasn\'t able to develop those either. This map is designed for a purely theoretical game where the opposing teams have different gravity directions.)\r\n\r\nCommunity Content Credits:\r\n- Backpack - Chipnertkj\r\n- Gas Mask - standardcombo"
+MaxPlayers: 8
+IsOpenForEdit: true
+Tags: "Action"
+Tags: "TeamDeathmatch"
+Tags: "Scifi"
+Tags: "PostApocalyptic"
+Tags: "FirstPerson"
+ScreenshotPaths: "C:/Users/Adam Duvin/Documents/My Games/CORE/Saved/Maps/Invert/Screenshots/Screenshot0001.png"
+ScreenshotPaths: "C:/Users/Adam Duvin/Documents/My Games/CORE/Saved/Maps/Invert/Screenshots/Screenshot0002.png"
+ScreenshotPaths: "C:/Users/Adam Duvin/Documents/My Games/CORE/Saved/Maps/Invert/Screenshots/Screenshot0003.png"
+ScreenshotPaths: "C:/Users/Adam Duvin/Documents/My Games/CORE/Saved/Maps/Invert/Screenshots/Screenshot0004.png"
+ScreenshotPaths: "C:/Users/Adam Duvin/Documents/My Games/CORE/Saved/Maps/Invert/Screenshots/Screenshot0005.png"
